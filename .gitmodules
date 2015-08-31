@@ -1,0 +1,45 @@
+[submodule "solarized"]
+	path = solarized
+	url = https://github.com/Defman21/ko8-schemes-solarized
+[submodule "medium"]
+	path = medium
+	url = https://github.com/Defman21/ko8-schemes-medium
+[submodule "zenburn"]
+	path = zenburn
+	url = https://github.com/Defman21/ko8-schemes-lc-zenburn
+[submodule "komodo"]
+	path = komodo
+	url = https://github.com/Defman21/ko8-schemes-komodo
+[submodule "default"]
+	path = default
+	url = https://github.com/Defman21/ko8-schemes-default
+[submodule "dark/wombatsosia"]
+	path = dark/wombatsosia
+	url = https://github.com/Defman21/ko8-schemes-dark-wombatsosia
+[submodule "dark/soothing"]
+	path = dark/soothing
+	url = https://github.com/Defman21/ko8-schemes-dark-soothing
+[submodule "dark/solarized"]
+	path = dark/solarized
+	url = https://github.com/Defman21/ko8-schemes-dark-solarized
+[submodule "dark/oblivion"]
+	path = dark/oblivion
+	url = https://github.com/Defman21/ko8-schemes-dark-oblivion
+[submodule "dark/luxury"]
+	path = dark/luxury
+	url = https://github.com/Defman21/ko8-schemes-dark-luxury
+[submodule "dark/default"]
+	path = dark/default
+	url = https://github.com/Defman21/ko8-schemes-dark-default
+[submodule "dark/cobalt"]
+	path = dark/cobalt
+	url = https://github.com/Defman21/ko8-schemes-dark-cobalt
+[submodule "dark/chalkboard"]
+	path = dark/chalkboard
+	url = https://github.com/Defman21/ko8-schemes-dark-chalkboard
+[submodule "bright"]
+	path = bright
+	url = https://github.com/Defman21/ko8-schemes-bright
+[submodule "bluewater"]
+	path = bluewater
+	url = https://github.com/Defman21/ko8-schemes-bluewater
